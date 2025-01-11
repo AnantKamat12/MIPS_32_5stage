@@ -14,18 +14,12 @@ A Verilog-based **5-stage pipelined MIPS32 processor** simulating MIPS instructi
 
 ## Project Structure  
 ```
-📂 src         # Verilog modules  
-📂 testbench   # Testbench for simulation  
+📂 piopeline     #All Verilog modules  
+📂 test   # Testbench for simulation  
 README.md      # Documentation  
 ```  
 
-## Getting Started  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/AnantKamat12/Pipelined-MIPS32.git  
-   cd Pipelined-MIPS32  
-   ```  
-2. Run `mips32_tb.v` in a Verilog simulator (ModelSim, Vivado, etc.).  
+
 
 ## Instruction Set  
 | Instruction | Example          | Description             |  
