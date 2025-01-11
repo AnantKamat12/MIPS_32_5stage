@@ -17,11 +17,15 @@ A Verilog-based **5-stage pipelined MIPS32 processor** simulating MIPS instructi
 📂 piopeline     #All Verilog modules  
 📂 test   # Testbench for simulation  
 README.md      # Documentation  
-```  
+```
+
+git clone https://github.com/AnantKamat12/MIPS_32_5stage.git  
+cd MIPS_32_5stage  
 
 
 
-## Instruction Set  
+
+## Instruction Set Examples
 | Instruction | Example          | Description             |  
 |-------------|------------------|-------------------------|  
 | `ADD`       | `ADD $t1, $t2`   | Adds two registers      |  
